@@ -45,7 +45,7 @@ The full schematic file is also available in this repository as `FinalSystem.fzz
 
 ## Proof Videos
 For the Proofs, I took videos showing their fuctionality. <br>
-- [Joystick Proof Video](https://drive.google.com/file/d/1PmApAlEgW--owJrROgI6_fgr3W4tIzn4/view?usp=sharing)
+- [Joystick Proof Video](https://drive.google.com/file/d/1QfWjBV0AonXzMbsJbF9MJua1zJsgnPCm/view?usp=sharing)
 - [Servo Proof Video](https://drive.google.com/file/d/1b3VGC-HKR39C-DVepIYNn68QBVo1b7Tz/view?usp=sharing)
 - [Turret Proof Video](https://drive.google.com/file/d/1PmApAlEgW--owJrROgI6_fgr3W4tIzn4/view?usp=sharing)
 
