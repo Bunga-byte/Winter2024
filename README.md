@@ -1,6 +1,6 @@
 # Winter 2024 Projects
 
-This Repository holds the Projects I did over Winter Break 2024.
+This Repository holds the Projects I did over Winter Break 2024. The Final Project is incomplete due to the 12C Safe Level Shifters not coming in in time :(. When they do come in, I will update the Repo with a final video!
 
 ## Table of Contents
 - [Final Project](https://github.com/Bunga-byte/Winter2024/tree/main/Final%20Project)
