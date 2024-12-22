@@ -3,7 +3,7 @@
 This Repository holds the Projects I did over Winter Break 2024.
 
 ## Table of Contents
-- [Final Project](Final Project)
+- [Final Project](https://github.com/Bunga-byte/Winter2024/tree/main/Final%20Project)
 
 ## Overview
 The **Water System** project consists of an Arduino Uno that reads an Analog Soil Moisture value from a Soil Moisture probe. That value is then used to control the Water Pump to water the plants. When the Soil Moisture value goes above the threshold value of 500 (The soil is dry), it outputs high to the relay. The relay then switches and in combination with the external power supply, the Water Pump activates.
