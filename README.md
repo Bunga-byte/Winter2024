@@ -37,8 +37,8 @@ Here is a screenshot of the schematic that illustrates how the components are co
 The full schematic file is also available in this repository as `FinalSystem.fzz` in the Final Project Folder.
 
 ## Code Final System
-- The Arduino Uno code to control the Servos based on the TX Data from the Second ESP32, `a` in the Final Project Folder.<br>
-- The Arduino Mega code to take in the Joystick Data and send to the RX Data of the First ESP32, `a` in the Final Project Folder.<br>
-- The First ESP32 code to take in the TX Data from the Arduino Mega and transmit the Data to the Second ESP32, `a` in the Final Project Folder.<br>
-- The Second ESP32 code to take in the transmitted Joystick code and send it to the Arduino Uno RX Data, `a` in the Final Project Folder.<br>
+- The Arduino Uno code to control the Servos based on the TX Data from the Second ESP32, `ArduinoUnoServo.ino` in the Final Project Folder.<br>
+- The Arduino Mega code to take in the Joystick Data and send to the RX Data of the First ESP32, `ArduinoMegaJoystick.ino` in the Final Project Folder.<br>
+- The First ESP32 code to take in the TX Data from the Arduino Mega and transmit the Data to the Second ESP32, `FirstESP32.ino` in the Final Project Folder.<br>
+- The Second ESP32 code to take in the transmitted Joystick code and send it to the Arduino Uno RX Data, `SecondESP32.ino` in the Final Project Folder.<br>
 
