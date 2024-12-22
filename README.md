@@ -35,6 +35,7 @@ Here is a screenshot of the schematic that illustrates how the components are co
 ![Schematic Screenshot](https://github.com/Bunga-byte/Winter2024/blob/main/Final%20Project/Final%20System.png)
 
 The full schematic file is also available in this repository as `FinalSystem.fzz` in the Final Project Folder.
+The best way to think about the system is like this: Joystick -> Arduino Mega -> First ESP32 -> Second ESP32 -> Arduino Uno -> Servo Turret
 
 ## Code Final System
 - The Arduino Uno code to control the Servos based on the TX Data from the Second ESP32, `ArduinoUnoServo.ino` in the Final Project Folder.<br>
